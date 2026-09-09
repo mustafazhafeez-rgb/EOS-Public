@@ -12,15 +12,15 @@ Not a mirror of any private repository. Nothing here was migrated in bulk, and n
 
 ## Status
 
-**Foundation v1.** Structure and policy only — the content folders below are placeholders describing what belongs in them, not yet populated. This is intentional: the scaffold was built first so every future addition has a clear, pre-agreed home and a pre-agreed review gate, rather than improvising both at once.
+**Foundation v1, first content added.** Most folders below are still placeholders describing what belongs in them — populated one reviewed item at a time, never by bulk import.
 
-| Folder | Purpose |
-|---|---|
-| `docs/engineering-operating-system/` | The genericized decision-making and planning discipline used to build everything else here — never the raw private records themselves |
-| `standards/` | Genericized technical standards (design-for-manufacturing, capability-acquisition discipline, etc.) |
-| `projects/` | Individual engineering projects, each either linked to its own separate repository or documented directly here |
-| `case-studies/` | Narrative "problem → approach → result" write-ups of the strongest projects, for a reader who won't dig through source |
-| `profile/` | Draft content for the separate GitHub profile-README repository — not part of this repository's own published content |
+| Folder | Purpose | Status |
+|---|---|---|
+| `docs/engineering-operating-system/` | The genericized decision-making and planning discipline used to build everything else here — never the raw private records themselves | Placeholder |
+| `standards/` | Genericized technical standards (design-for-manufacturing, capability-acquisition discipline, etc.) | Placeholder |
+| `projects/` | Individual engineering projects, each either linked to its own separate repository or documented directly here | Placeholder |
+| `case-studies/` | Narrative "problem → approach → result" write-ups of the strongest projects, for a reader who won't dig through source | **1 published** |
+| `profile/` | Draft content for the separate GitHub profile-README repository — not part of this repository's own published content | Draft, unverified facts bracketed |
 
 ## How this repository grows
 

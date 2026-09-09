@@ -1,10 +1,13 @@
-# Case Studies (placeholder)
+# Case Studies
 
-**Status: not yet populated.** Short "problem → approach → result" narrative write-ups, for a reader (a recruiter, a hiring engineer) who wants the story without reading source material first. Each case study will link into `projects/` or `docs/` for the detail behind it.
+Short "problem → approach → result" narrative write-ups, for a reader (a recruiter, a hiring engineer) who wants the story without reading source material first. Each case study will link into `projects/` or `docs/` for the detail behind it.
 
-## Candidate first additions, in priority order
+## Published
 
-1. Designing a security invariant that can't be configured away.
+1. [**Designing a Security Invariant That Can't Be Configured Away**](security-invariant-that-cant-be-configured-away.md) — a hard-coded exclusion rule, a real gap found in it after the fact, the fix, and the one part deliberately left open rather than hidden.
+
+## Candidate next additions, in priority order
+
 2. Choosing infrastructure by objective criteria instead of by preference or trend.
 3. Building a home network the way a systems-engineering project should be built — requirements through maintenance.
 4. Teaching a technical subject from zero, one layer at a time.
