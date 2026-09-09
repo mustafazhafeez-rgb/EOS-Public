@@ -1,0 +1,18 @@
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Never commit secrets or credentials of any kind
+*.env
+.env.*
+*_secret*
+*_credentials*
+*.pem
+*.key
+
+# Local scratch, never a real deliverable
+/scratch/
+/tmp/
