@@ -36,3 +36,18 @@ Every existing safety check passed. They were right to — none of them had ever
 ## Why this is here
 
 The interesting part of this story isn't the exclusion list — plenty of systems have an allow/deny list. It's that having one didn't make the system done: a rule enforced in exactly one place turned out to have a second place it needed enforcing, and finding that required treating "all tests pass" as a starting point for review, not a stopping point. The fix, and the part of the fix that was deliberately left undone and written down instead, are both here for the same reason: neither looks finished by accident.
+
+## Initiative Within a Defined Boundary
+
+The Gateway illustrates a useful distinction between following a specification and taking initiative within an authorized project.
+
+The overall project had a defined scope and explicit limits. But the work extended beyond implementing the core service. Supporting infrastructure included an operator tutorial, preflight diagnostics, a scripted simulator, a red-team probe collection, and end-to-end tests.
+
+These components made the system easier to operate, inspect, and challenge. They also helped expose defects that ordinary unit tests had not caught.
+
+The important distinction is that initiative did not mean unrestricted authority. Supporting work could improve the implementation within its established boundaries; expanding those boundaries remained a separate decision.
+
+This is an example of **proactive engineering within delegated authority**: identifying and implementing useful supporting capabilities without requiring a separate instruction for every component, while preserving the limits of the original mandate.
+
+The achievement is not that an AI operated without human direction. It is that useful engineering work emerged beyond the narrow act of implementing the core service, without treating that initiative as permission to expand the project's authority.
+
