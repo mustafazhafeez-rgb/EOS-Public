@@ -19,9 +19,9 @@ A small number of real, verifiable engineering artifacts, plus the operating dis
 
 | Start here | For |
 |---|---|
-| [`case-studies/`](case-studies/) | The short version: problem → approach → result |
-| [`projects/`](projects/) | Individual projects in more depth (being populated) |
-| [`docs/engineering-operating-system/`](docs/engineering-operating-system/) | The method behind all of it (being written) |
+| [Case studies](case-studies/) | Two published write-ups: problem → approach → result |
+| [Projects](projects/) | Individual projects in more depth; currently includes the [Remote Engineering Workstation](projects/remote-engineering-workstation.md) |
+| [Publication boundary](docs/PUBLICATION_BOUNDARY.md) | Rules for keeping public material separate from private source material |
 | **Writing:** [Medium, @mustafazhafeez](https://medium.com/@mustafazhafeez) | Longer-form engineering thinking and lessons |
 
 **The three channels, and how they differ:**
@@ -39,11 +39,11 @@ Not a mirror of any private repository. Nothing here was migrated in bulk, and n
 
 | Folder | Purpose | Status |
 |---|---|---|
-| `case-studies/` | Narrative "problem → approach → result" write-ups of the strongest work | **2 published** |
-| `projects/` | Individual engineering projects, documented here or linked to their own repository | Being populated (see its README) |
-| `docs/engineering-operating-system/` | The genericized decision-making and planning discipline used to build everything here, never the raw private records | Placeholder |
-| `standards/` | Genericized technical standards | Placeholder |
-| `profile/` | Draft content for the separate GitHub profile-README repository | Draft |
+| [`case-studies/`](case-studies/) | Narrative "problem → approach → result" write-ups | **2 published** |
+| [`projects/`](projects/) | Individual engineering projects, documented here or linked to their own repository | **1 project published** |
+| [`docs/engineering-operating-system/`](docs/engineering-operating-system/) | Genericized decision-making and planning discipline, never raw private records | Planned; not yet published |
+| [`standards/`](standards/) | Genericized technical standards | Planned; not yet published |
+| [`profile/`](profile/) | Draft content for the separate GitHub profile-README repository | Draft; not yet published |
 
 ## How this repository grows
 
