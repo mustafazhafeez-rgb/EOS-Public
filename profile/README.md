@@ -13,7 +13,7 @@
 currently focused on. Specific and true, not generic.]
 
 **Technical Skills**
-- Hardware-in-the-Loop (HIL) Testing
+- **Hardware-in-the-Loop (HIL) Testing:** Proficient in testing hardware/software interactions in simulated environments, including test setup, execution, and evaluation of system behavior.
 
 **What's here:**
 - [`eos-public`](https://github.com/<username>/eos-public) — a portfolio
