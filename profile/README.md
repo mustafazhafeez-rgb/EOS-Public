@@ -12,6 +12,9 @@
 [One or two sentences: what kind of engineer you are, and what you're
 currently focused on. Specific and true, not generic.]
 
+**Technical Skills**
+- Hardware-in-the-Loop (HIL) Testing
+
 **What's here:**
 - [`eos-public`](https://github.com/<username>/eos-public) — a portfolio
   of real projects and the personal engineering-operating discipline
