@@ -13,6 +13,15 @@ The public, employment-facing portfolio derived from a private personal engineer
 
 **Where it's heading (direction, not a finished design):** a small, human-directed engineering practice, with clearer AI roles and more of the routine upkeep automated. That operating model is still being designed privately and isn't presented here as settled.
 
+## Professional engineering capabilities
+
+- **Hardware-in-the-Loop (HIL) test environment setup and documentation**
+- **Equipment commissioning procedure authoring**
+- **QA records and traceability practices**
+- **Multi-environment test coverage planning**
+- **Technical documentation for engineering audiences**
+- **Remote QA coordination across distributed teams**
+
 ## What this is
 
 A small number of real, verifiable engineering artifacts, plus the operating discipline behind how they were built, **rewritten for a public audience** rather than copied from their private source.
